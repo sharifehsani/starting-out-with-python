@@ -1,0 +1,14 @@
+starbucks
+200.0
+macdonalds
+50.0
+seven eleven
+500.0
+queen
+400.0
+king
+300.0
+prince
+250.0
+princes
+150.0
