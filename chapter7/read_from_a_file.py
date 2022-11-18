@@ -2,7 +2,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 this program reads the content of an existing file named 'student_info.txt' with 'r' mode access
 """
