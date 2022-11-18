@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 9. Shipping Charges
 The Fast Freight Shipping Company charges the following rates:
