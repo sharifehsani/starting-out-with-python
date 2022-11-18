@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 8. Sum of Numbers
 Write a program with a loop that asks the user to enter a series of positive numbers. The
