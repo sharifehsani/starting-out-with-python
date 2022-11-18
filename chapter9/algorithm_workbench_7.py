@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: October 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 7. Write a function that accepts a string as an argument and displays the string backwards.
