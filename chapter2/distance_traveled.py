@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 5. Distance Traveled
 Assuming there are no accidents or delays, the distance that a car travels down the interstate
