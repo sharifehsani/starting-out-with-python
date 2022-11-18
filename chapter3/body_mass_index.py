@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 6. Body Mass Index
 Write a program that calculates and displays a person’s body mass index (BMI). The
