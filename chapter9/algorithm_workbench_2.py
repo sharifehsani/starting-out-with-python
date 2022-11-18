@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 2. Write a loop that counts the number of space characters that appear in the string referenced
