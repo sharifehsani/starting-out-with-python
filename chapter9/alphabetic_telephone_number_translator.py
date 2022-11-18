@@ -2,7 +2,7 @@
 
 - Author: Sharif Ehsani
 - Date: October 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 5. Alphabetic Telephone Number Translator
 Many companies use telephone numbers like 555-GET-FOOD so the number is easier for
