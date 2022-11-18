@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program reads numeric data type from a file and uses it in calculations
 this program will convert the height (cm) and weight (kg) to pounds and feet
