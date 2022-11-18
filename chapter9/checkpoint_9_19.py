@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Checkpoint
 9.19 Assume the following statement appears in a program:
