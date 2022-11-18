@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Checkpoint
 9.11 Write code using the in operator that determines whether 'd' is in mystring.
