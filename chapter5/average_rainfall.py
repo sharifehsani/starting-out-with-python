@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 5. Average Rainfall
 Write a program that uses nested loops to collect data and calculate the average rainfall
