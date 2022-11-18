@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program uses a loop to write data on a file asking the user to enter the name of animals
 """
