@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: November 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 12. Pig Latin
 Write a program that accepts a sentence as input and converts each word to “Pig Latin.” In
