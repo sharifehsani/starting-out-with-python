@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 1. Assume choice references a string. The following if statement determines whether
