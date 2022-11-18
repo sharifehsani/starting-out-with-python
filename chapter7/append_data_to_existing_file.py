@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program appends date to an existing file with some data using the 'a' access mode.
 'a' mode will not erease the content of a file, but appends to the end of it
