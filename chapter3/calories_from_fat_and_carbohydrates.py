@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 7. Calories from Fat and Carbohydrates
 A nutritionist who works for a fitness club helps members by evaluating their diets. As part
