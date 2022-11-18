@@ -2,7 +2,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 In the Spotlight:
 Extracting Characters from a String
