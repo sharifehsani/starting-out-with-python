@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 1. Feet to Inches
 One foot equals 12 inches. Write a function named feet_to_inches that accepts a number
