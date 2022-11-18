@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- www.gitbuh.com/ehsanishttps://github.com/sharifehsani
 
 Programming Exercises
 4. Item Counter
