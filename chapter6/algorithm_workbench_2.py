@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 2. The following statement calls a function named half, which returns a value that is half
 that of the argument. (Assume the number variable references a float value.) Write
