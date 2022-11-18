@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 in this program a list passed as an argument to a funciton and the functionreturns the total of the list’s elements.
 """
