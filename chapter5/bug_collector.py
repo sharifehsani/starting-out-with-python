@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 1. Bug Collector
 A bug collector collects bugs every day for seven days. Write a program that keeps a running
