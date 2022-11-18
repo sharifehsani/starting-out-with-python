@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 A painting company has determined that for every 115 square feet of wall space, one gallon
 of paint and eight hours of labor will be required. The company charges $20.00 per
