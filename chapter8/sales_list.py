@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program ask the user how many sales item to add and gets sales amounts from the user and assigns them to a list.
 
