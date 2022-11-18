@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 6. Sales Tax
 Write a program that will ask the user to enter the amount of a purchase. The program
