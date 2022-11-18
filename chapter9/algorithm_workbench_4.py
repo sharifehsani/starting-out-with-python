@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: October 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 4. Write a loop that counts the number of lowercase characters that appear in the string
