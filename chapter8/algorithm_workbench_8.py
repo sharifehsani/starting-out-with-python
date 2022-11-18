@@ -2,7 +2,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm workbench
 8. Write a statement that creates a two-dimensional list with 5 rows and 3 columns. 
