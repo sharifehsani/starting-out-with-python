@@ -2,7 +2,7 @@ import random		# import random module from the python standard library
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 12. Rock, Paper, Scissors Game
 Write a program that lets the user play the game of Rock, Paper, Scissors against the computer.
