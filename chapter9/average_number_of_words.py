@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: November 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 6. Average Number of Words
 If you have downloaded the source code from this book’s companion Web site, you will
