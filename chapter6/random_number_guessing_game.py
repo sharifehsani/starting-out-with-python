@@ -2,7 +2,7 @@ import random 				# import random module from standard library
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 11. Random Number Guessing Game
 Write a program that generates a random number in the range of 1 through 100 and asks the
