@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 7. A file exists on the disk named students.txt. The file contains several records,
