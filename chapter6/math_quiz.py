@@ -2,7 +2,7 @@ import random		# import random module from the standard library
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsanis
 
 2. Math Quiz
 Write a program that gives simple math quizzes. The program should display two random
