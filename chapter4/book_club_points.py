@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 7. Book Club Points
 Serendipity Booksellers has a book club that awards points to its customers based on the
