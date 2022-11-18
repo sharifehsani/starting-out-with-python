@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 2. Write a while loop that asks the user to enter two numbers. The numbers should be
 added and the sum displayed. The loop should ask the user if he or she wishes to perform
