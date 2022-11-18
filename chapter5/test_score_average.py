@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 - This program averages test scores. It asks the user for the number of students and the number of test scores per student
 - and displays the average of tests per student.
 """
