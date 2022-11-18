@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 9. Write code that prompts the user to enter a number in the range of 1 through 100 and validates the input.
 """
