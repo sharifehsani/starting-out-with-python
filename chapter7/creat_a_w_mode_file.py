@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program creats a file named "test_file.txt" in the same directory as the program in 'w' mode
 Open a file for writing. If the file already exists, erase its contents. If it
