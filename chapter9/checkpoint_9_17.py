@@ -2,7 +2,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Checkpoint
 9.17 Write a loop that counts the number of uppercase characters that appear in the
