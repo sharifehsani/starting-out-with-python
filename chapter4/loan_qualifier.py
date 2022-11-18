@@ -1,7 +1,7 @@
 """"
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program determines if a customer qualifies for credit card
 MIN_SALARY = 30,000
