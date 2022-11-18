@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 3. Land Calculation
 One acre of land is equivalent to 43,560 square feet. Write a program that asks the 
