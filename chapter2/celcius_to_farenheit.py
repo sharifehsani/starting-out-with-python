@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 9. Celsius to Fahrenheit Temperature Converter
 Write a program that converts Celsius temperatures to Fahrenheit temperatures. The formula
