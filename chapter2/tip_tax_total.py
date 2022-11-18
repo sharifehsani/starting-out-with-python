@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 8. Tip, Tax, and Total
 Write a program that calculates the total amount of a meal purchased at a restaurant. The
