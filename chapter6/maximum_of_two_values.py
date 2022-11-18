@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 3. Maximum of Two Values
 Write a function named maximum that accepts two integer values as arguments and returns
