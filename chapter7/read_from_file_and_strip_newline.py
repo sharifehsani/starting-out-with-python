@@ -2,7 +2,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 this program reads the content of an existing file named 'student_info.txt' with 'r' mode access and strips the new line
 as we saw in the previous program 'read_from_a_file.py' when we printed the data read from the file it printed the new lines
