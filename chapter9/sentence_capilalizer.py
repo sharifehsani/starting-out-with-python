@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: November 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 8. Sentence Capitalizer
 Write a program with a function that accepts a string as an argument and returns a copy
