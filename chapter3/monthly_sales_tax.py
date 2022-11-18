@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 10. Monthly Sales Tax
 A retail company must file a monthly sales tax report listing the total sales for the month,
