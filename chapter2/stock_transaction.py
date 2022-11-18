@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 10. Stock Transaction Program
 Last month Joe purchased some stock in Acme Software, Inc. Here are the details of the
