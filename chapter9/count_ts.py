@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program get a user input, a string and checks if letter t or T appears in the string.
 If it does apear, how many times
