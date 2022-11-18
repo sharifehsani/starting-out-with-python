@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 3. Write a for loop that displays the following set of numbers:
 0, 10, 20, 30, 40, 50 . . . 1000
