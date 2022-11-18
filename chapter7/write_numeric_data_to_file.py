@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- www.https://github.com/sharifehsani
 
 
 This program writes numeric data to a file which is different from writting string data type
