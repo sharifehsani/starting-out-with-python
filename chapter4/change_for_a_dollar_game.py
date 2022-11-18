@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 6. Change for a Dollar Game
 Create a change-counting game that gets the user to enter the number of coins required to make
