@@ -2,7 +2,7 @@
 """
 - Author: Sharif Ehsani
 - Date: December 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 2. Write a statement that creates an empty dictionary.
