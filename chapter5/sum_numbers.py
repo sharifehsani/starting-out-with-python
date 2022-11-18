@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 - A running total is a sum of numbers that accumulates with each iteration of a loop.
 - The variable used to keep the running total is called an accumulator.
