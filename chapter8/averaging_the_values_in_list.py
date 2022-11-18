@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Averaging the Values in a List
 The first step in calculating the average of the values in a list is to get the total of the values. 
