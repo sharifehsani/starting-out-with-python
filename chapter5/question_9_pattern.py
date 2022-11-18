@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 9. Write a program that uses nested loops to draw this pattern:
 *******
