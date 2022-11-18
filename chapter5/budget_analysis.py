@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 3. Budget Analysis
 Write a program that asks the user to enter the amount that he or she has budgeted for a
