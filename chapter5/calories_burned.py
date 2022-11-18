@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 2. Calories Burned
 Running on a particular treadmill you burn 3.9 calories per minute. Write a program
