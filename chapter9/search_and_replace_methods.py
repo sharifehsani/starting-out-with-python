@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 # in this exercise we work a bit with the search and replace methods
 """
