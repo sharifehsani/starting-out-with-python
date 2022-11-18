@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 7. Write a set of nested loops that display 10 rows of # characters. There should be
 15 # characters in each row.
