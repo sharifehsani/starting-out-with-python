@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 5. Modify the code that you wrote in question 4 so it adds all of the numbers read from
