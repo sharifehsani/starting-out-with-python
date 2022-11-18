@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: November 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 11. Word Separator
 Write a program that accepts as input a sentence in which all of the words are run together
