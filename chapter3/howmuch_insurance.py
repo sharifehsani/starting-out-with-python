@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 3. How Much Insurance?
 Many financial experts advise that property owners should insure their homes or buildings
