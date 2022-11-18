@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 8. Prime Numbers
 A prime number is a number that is only evenly divisible by itself and 1. For example, the
