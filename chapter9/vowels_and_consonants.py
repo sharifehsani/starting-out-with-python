@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: November 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 9. Vowels and Consonants
 Write a program with a function that accepts a string as an argument and returns the number
