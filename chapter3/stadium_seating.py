@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 8. Stadium Seating
 There are three seating categories at a stadium. For a softball game, Class A seats cost $15,
