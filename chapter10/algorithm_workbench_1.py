@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: December 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 1. Write a statement that creates a dictionary containing the following key-value pairs:
