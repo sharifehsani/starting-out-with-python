@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: October 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 9. Assume mystring references a string. Write a statement that uses a slicing expression
