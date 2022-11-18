@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 this program gets user input and writes it on to a file with 'w' mode. w mode erease all the content of an existing
 file, if it does not exist it will creat one. so lets creat a new file to not overwrite other files
