@@ -2,7 +2,7 @@ import random 		# import random module from the python standard library
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 7. Odd/Even Counter
 In this chapter you saw an example of how to write an algorithm that determines whether
