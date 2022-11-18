@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm workbench
 3. Assume the lists numbers1 has 100 elements and numbers2 is an empty list. Write code that copies the values in numbers1 to numbers2.
