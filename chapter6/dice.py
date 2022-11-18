@@ -2,7 +2,7 @@ import random 			# import random madule from python standard library
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Dr. Kimura teaches an introductory statistics class, and has asked you to write a program
 that he can use in class to simulate the rolling of dice. The program should randomly generate
