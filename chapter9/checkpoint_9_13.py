@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Checkpoint
 9.13 Write an if statement that displays “Digit” if the string referenced by the variable
