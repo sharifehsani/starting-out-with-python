@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 When using functions in a program, you generally isolate each task within the program in
 its own function. For example, a realistic pay calculating program might have the following
