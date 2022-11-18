@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 1. Write a while loop that lets the user enter a number. The number should be multiplied
 by 10, and the result assigned to a variable named product. The loop should iterate as
