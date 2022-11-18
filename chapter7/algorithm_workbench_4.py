@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 4. Write code that does the following: opens the number_list.txt file that was created
 by the code you wrote in question 3, reads all of the numbers from the file and displays
