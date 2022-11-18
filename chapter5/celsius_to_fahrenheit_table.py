@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 6. Celsius to Fahrenheit Table
 Write a program that displays a table of the Celsius temperatures 0 through 20 and their
