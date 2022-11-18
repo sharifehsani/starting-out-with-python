@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: December 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm Workbench
 9. Assume each of the variables set1 and set2 references a set. Write code that creates
