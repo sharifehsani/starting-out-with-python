@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 5. Color Mixer
 The colors red, blue, and yellow are known as the primary colors because they cannot be
