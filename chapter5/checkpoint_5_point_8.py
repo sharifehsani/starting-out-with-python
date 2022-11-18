@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 5.8 Rewrite the following code so it calls the range function instead of using the list
 [0, 1, 2, 3, 4, 5].
