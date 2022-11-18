@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: November 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 In the Spotlight:
 Storing Names and Birthdays in a Dictionary
