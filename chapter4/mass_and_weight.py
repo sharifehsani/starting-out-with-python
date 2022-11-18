@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 3. Mass and Weight
 Scientists measure an object’s mass in kilograms and its weight in newtons. If you know the
