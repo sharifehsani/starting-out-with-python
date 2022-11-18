@@ -2,7 +2,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm workbench
 5. Write a function that accepts a list as an argument (assume the list contains integers)
