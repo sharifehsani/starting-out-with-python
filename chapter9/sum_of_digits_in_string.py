@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: October 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Programming Exercises
 2. Sum of Digits in a String
