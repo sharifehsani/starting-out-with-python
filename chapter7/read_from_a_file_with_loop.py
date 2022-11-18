@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program uses a loop to read data from a file since we don't know how many lines are ther and display
 """
