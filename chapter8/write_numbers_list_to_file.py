@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 This program writes generates a list of random numbers between 1 and 10 and writes the list of numbers to a file
 
