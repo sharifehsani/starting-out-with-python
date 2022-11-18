@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 6. Test Average and Grade
 Write a program that asks the user to enter five test scores. The program should display a letter
