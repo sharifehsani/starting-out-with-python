@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: August 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Totaling the Values in a List
 Assuming a list contains numeric values, to calculate the total of those values you use a loop with an 
