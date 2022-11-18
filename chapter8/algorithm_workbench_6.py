@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: September 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Algorithm workbench
 6. Assume the names variable references a list of strings. Write code that determines whether 'Ruby' 
