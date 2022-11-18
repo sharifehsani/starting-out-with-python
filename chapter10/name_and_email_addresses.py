@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: December 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 Programming Exercises
 8. Name and Email Addresses
