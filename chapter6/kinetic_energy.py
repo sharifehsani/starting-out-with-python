@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: July 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 5. Kinetic Energy
 In physics, an object that is in motion is said to have kinetic energy (KE). The following formula
