@@ -1,7 +1,7 @@
 """
 - Author: Sharif Ehsani
 - Date: June 2020
-- www.gitbuh.com/ehsanis
+- https://github.com/sharifehsani
 
 4. Total Purchase
 A customer in a store is purchasing five items. Write a program that asks for the price of
